@@ -1,2 +1,1 @@
-6/11/2020
-Update cvlcksjfkdjf
+# ASP. NET CORE PROJECT - XEM PHIM TRỰC TUYẾN ONLINE
