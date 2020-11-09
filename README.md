@@ -7,4 +7,5 @@ _Chưa có bản quyền hic_
 -----
 ## Update
 09/11/2020: Xây dựng & thiết kế Database.
-![ww0sm4t - Imgur](https://user-images.githubusercontent.com/70925557/98498562-ab952e80-2279-11eb-8210-65a737678538.png)
+![ocTGKbh](https://user-images.githubusercontent.com/70925557/98498821-6e7d6c00-227a-11eb-9c84-647ea50a50ff.png)
+
